@@ -1,0 +1,6 @@
+@roket_chat_api_HostAddress = http://localhost:5062
+
+GET {{roket_chat_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
